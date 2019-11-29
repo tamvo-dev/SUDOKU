@@ -1,0 +1,10 @@
+C:\Users\LAptop\source\repos\Sodoku\Sodoku\bin\Debug\Sodoku.exe.config
+C:\Users\LAptop\source\repos\Sodoku\Sodoku\bin\Debug\Sodoku.exe
+C:\Users\LAptop\source\repos\Sodoku\Sodoku\bin\Debug\Sodoku.pdb
+C:\Users\LAptop\source\repos\Sodoku\Sodoku\obj\Debug\Sodoku.csprojAssemblyReference.cache
+C:\Users\LAptop\source\repos\Sodoku\Sodoku\obj\Debug\Sodoku.Form1.resources
+C:\Users\LAptop\source\repos\Sodoku\Sodoku\obj\Debug\Sodoku.Properties.Resources.resources
+C:\Users\LAptop\source\repos\Sodoku\Sodoku\obj\Debug\Sodoku.csproj.GenerateResource.cache
+C:\Users\LAptop\source\repos\Sodoku\Sodoku\obj\Debug\Sodoku.exe
+C:\Users\LAptop\source\repos\Sodoku\Sodoku\obj\Debug\Sodoku.pdb
+C:\Users\LAptop\source\repos\Sodoku\Sodoku\obj\Debug\Sodoku.Message.resources
