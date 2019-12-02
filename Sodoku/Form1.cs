@@ -135,7 +135,7 @@ namespace Sodoku
             for(int i=0; i<10; i++)
             {
                 int index = random.Next(0, 81);
-                arr[index] = '0'; 
+                arr[index] = ' '; 
             }
 
             for (int i = 0; i < 9; i++)
@@ -144,7 +144,7 @@ namespace Sodoku
                 {
                     char num = arr[i * 9 + j];
                     buttons[i, j].Text = num + "";
-                    if (num == '0')
+                    if (num == ' ')
                     {
                         buttons[i, j].BackColor = Color.Blue;
                         buttons[i, j].Name = NAME_BUTTON;
